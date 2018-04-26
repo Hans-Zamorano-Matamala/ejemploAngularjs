@@ -12,9 +12,9 @@ Temario de AngularJS* 1.x y utilidades relacionadas+
 Comandos de utilidad:
 
 * Docker:
-    * Levantar el proyecto usando la maquina docker
+    * Levantar el proyecto usando la maquina docker, debe existir docker-composer.yml o docker-composer.yaml junto a la carpeta app
 
-        ``` docker compose -f archivo.yml ```
+        ``` docker compose up ```
 * Bower:
     * inicializar un proyecto bower
 
